@@ -23,6 +23,8 @@ sh AUR-DS/install-obmenu3-v*.sh
 
 sh AUR-DS/install-obmenu-generator-v*.sh
 
+sh AUR-DS/install-openbox-arc-git-v*.sh
+
 sh AUR-DS/install-perl-linux-desktopfiles-v*.sh
 
 sh AUR/install-yad-v*.sh
