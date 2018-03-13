@@ -54,7 +54,6 @@ echo "####     Software from ArcoLinux Repository installed       ####"
 echo "################################################################"
 echo
 
-
 echo "################################################################"
 echo "Copying all files and folders from /etc/skel to ~"
 echo "################################################################"
