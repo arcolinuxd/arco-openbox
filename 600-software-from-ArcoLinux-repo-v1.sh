@@ -24,7 +24,7 @@ sudo pacman -S arcolinux-common-git --noconfirm --needed
 sudo pacman -S arcolinux-config-git --noconfirm --needed
 sudo pacman -S arcolinux-conky-collection-git --noconfirm --needed
 sudo pacman -S arcolinux-docs-git --noconfirm --needed
-#sudo pacman -S arcolinux-geany-git --noconfirm --needed
+sudo pacman -S arcolinux-geany-git --noconfirm --needed
 #sudo pacman -S arcolinux-i3wm-git --noconfirm --needed
 sudo pacman -S arcolinux-local-git --noconfirm --needed
 sudo pacman -S arcolinux-neofetch-git --noconfirm --needed
