@@ -48,6 +48,7 @@ sudo pacman -S feh --noconfirm --needed
 sudo pacman -S gmrun --noconfirm --needed
 sudo pacman -S gsimplecal --noconfirm --needed
 sudo pacman -S imagemagick --noconfirm --needed
+sudo pacman -S jq --noconfirm --needed
 sudo pacman -S lxappearance --noconfirm --needed
 sudo pacman -S lxrandr --noconfirm --needed
 sudo pacman -S nitrogen --noconfirm --needed
