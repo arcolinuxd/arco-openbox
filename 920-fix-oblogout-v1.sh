@@ -13,12 +13,11 @@ set -e
 #
 ##################################################################################################################
 
-echo "Fix shortcut keyboard super + S"
+echo "Fix keyboard-shortcut - super + x"
 
 sudo sed -i 's/xfce4-session-logout/oblogout/g' ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml
 
-echo "Sardi icons applied when logging out or shutdown or ..."
 
 echo "################################################################"
-echo "####                  ICONS ARE NOW APPLIED               ######"
+echo "####                  SHORTCUT FIXED                      ######"
 echo "################################################################"
