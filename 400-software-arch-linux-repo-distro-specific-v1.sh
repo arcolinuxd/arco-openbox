@@ -53,7 +53,6 @@ sudo pacman -S lxappearance --noconfirm --needed
 sudo pacman -S lxrandr --noconfirm --needed
 sudo pacman -S nitrogen --noconfirm --needed
 sudo pacman -S obconf --noconfirm --needed
-sudo pacman -S qt4 --noconfirm --needed
 sudo pacman -S rofi --noconfirm --needed
 sudo pacman -S thunar --noconfirm --needed
 sudo pacman -S tint2 --noconfirm --needed
