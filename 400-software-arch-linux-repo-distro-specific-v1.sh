@@ -50,7 +50,6 @@ sudo pacman -S gsimplecal --noconfirm --needed
 sudo pacman -S imagemagick --noconfirm --needed
 sudo pacman -S jq --noconfirm --needed
 sudo pacman -S lxappearance --noconfirm --needed
-sudo pacman -S lxrandr --noconfirm --needed
 sudo pacman -S nitrogen --noconfirm --needed
 sudo pacman -S obconf --noconfirm --needed
 sudo pacman -S rofi --noconfirm --needed
@@ -58,7 +57,6 @@ sudo pacman -S thunar --noconfirm --needed
 sudo pacman -S tint2 --noconfirm --needed
 sudo pacman -S volumeicon  --noconfirm --needed
 sudo pacman -S w3m  --noconfirm --needed
-sudo pacman -S xorg-xrandr --noconfirm --needed
 sudo pacman -S xfce4-appfinder --noconfirm --needed
 sudo pacman -S xfce4-notifyd --noconfirm --needed
 sudo pacman -S xfce4-power-manager --noconfirm --needed
