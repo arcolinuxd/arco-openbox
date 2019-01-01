@@ -15,11 +15,14 @@ set -e
 #
 ##################################################################################################################
 
-echo "Fix keyboard-shortcut - super + x"
+echo "Installing the software ArcoLinux uses in .bashrc"
 
-sudo sed -i 's/xfce4-session-logout/oblogout/g' ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml
+sudo pacman -S --noconfirm --needed expac
+sudo pacman -S --noconfirm --needed hwinfo
+sudo pacman -S --noconfirm --needed reflector
+sudo pacman -S --noconfirm --needed youtube-dl
 
 
 echo "################################################################"
-echo "####                  SHORTCUT FIXED                      ######"
+echo "###                  software installed                     ####"
 echo "################################################################"

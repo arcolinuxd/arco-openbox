@@ -15,11 +15,12 @@ set -e
 #
 ##################################################################################################################
 
-echo "Fix keyboard-shortcut - super + x"
+echo "Autologin system group is installed on ArcoLinux"
+echo "On Arch Linux we need to create it ourselves"
 
-sudo sed -i 's/xfce4-session-logout/oblogout/g' ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml
-
+sudo groupadd -r autologin
 
 echo "################################################################"
-echo "####                  SHORTCUT FIXED                      ######"
+echo "###                  Group has been created                 ####"
+echo "###        Now you can run script 800 to autologin          ####"
 echo "################################################################"
