@@ -51,14 +51,7 @@ lightdm
 arcolinux-lightdm-gtk-greeter
 arcolinux-lightdm-gtk-greeter-settings
 arcolinux-wallpapers-git
-thunar
-thunar-archive-plugin
-thunar-volman
-xfce4-terminal
-arcolinux-xfce-git
-arcolinux-local-xfce4-git
 openbox
-arcolinux-logout-git
 )
 
 count=0
