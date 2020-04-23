@@ -58,6 +58,7 @@ list=(
 arandr
 dmenu
 feh
+geany
 gmrun
 gtk2-perl
 gtk-engine-murrine
