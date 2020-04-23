@@ -63,6 +63,7 @@ arcolinux-tint2-git
 arcolinux-tint2-themes-git
 arcolinux-nitrogen-git
 arcolinux-pipemenus-git
+yad
 )
 
 count=0
