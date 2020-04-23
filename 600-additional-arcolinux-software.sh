@@ -58,6 +58,9 @@ list=(
 arcolinux-openbox-git
 arcolinux-config-openbox-git
 arcolinux-openbox-dconf-git
+arcolinux-obmenu-generator-minimal-git
+arcolinux-tint2-git
+arcolinux-tint2-themes-git
 )
 
 count=0
