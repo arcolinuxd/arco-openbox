@@ -58,6 +58,7 @@ xfce4-terminal
 arcolinux-xfce-git
 arcolinux-local-xfce4-git
 openbox
+arcolinux-logout-git
 )
 
 count=0
