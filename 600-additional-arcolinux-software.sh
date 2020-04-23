@@ -55,12 +55,9 @@ func_category() {
 func_category Arcolinux-Desktop
 
 list=(
-arcolinux-lxqt-git
-arcolinux-config-lxqt-git
-arcolinux-lxqt-dconf-git
-arcolinux-lxqt-applications-add-git
-arcolinux-lxqt-applications-hide-git
-arcolinux-kvantum-lxqt-git
+arcolinux-openbox-git
+arcolinux-config-openbox-git
+arcolinux-openbox-dconf-git
 )
 
 count=0
