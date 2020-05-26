@@ -72,10 +72,6 @@ thunar-volman
 xfce4-terminal
 arcolinux-xfce-git
 arcolinux-local-xfce4-git
-arcolinux-oblogout
-arcolinux-oblogout-themes-git
-arcolinux-slim
-arcolinux-slimlock-themes-git
 arcolinux-logout-git
 )
 
