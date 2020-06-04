@@ -52,6 +52,7 @@ arcolinux-lightdm-gtk-greeter
 arcolinux-lightdm-gtk-greeter-settings
 arcolinux-wallpapers-git
 openbox
+arcolinux-logout-git
 )
 
 count=0

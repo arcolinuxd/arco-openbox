@@ -72,7 +72,6 @@ thunar-volman
 xfce4-terminal
 arcolinux-xfce-git
 arcolinux-local-xfce4-git
-arcolinux-logout-git
 )
 
 count=0
