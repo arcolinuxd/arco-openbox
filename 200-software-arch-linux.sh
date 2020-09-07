@@ -152,6 +152,7 @@ func_category System
 list=(
 dconf-editor
 arc-gtk-theme
+openbox-arc-git
 )
 
 count=0
