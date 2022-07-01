@@ -57,7 +57,7 @@ func_category Arcolinux-Desktop
 list=(
 arcolinux-openbox-git
 arcolinux-config-all-desktops-git
-arcolinux-openbox-dconf-git
+arcolinux-dconf-all-desktops-git
 arcolinux-openbox-themes-git
 arcolinux-obmenu-generator-minimal-git
 arcolinux-tint2-git
