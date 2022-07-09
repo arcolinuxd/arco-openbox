@@ -50,7 +50,7 @@ list=(
 sddm
 arcolinux-wallpapers-git
 openbox
-arcolinux-logout-git
+archlinux-logout-git
 )
 
 count=0
