@@ -66,7 +66,6 @@ imagemagick
 lxappearance-obconf
 lxrandr
 nitrogen
-obkey
 obconf
 obmenu3
 obmenu-generator
