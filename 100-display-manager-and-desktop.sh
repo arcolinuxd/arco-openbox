@@ -51,6 +51,9 @@ sddm
 arcolinux-wallpapers-git
 openbox
 archlinux-logout-git
+arcolinux-openbox-git
+obmenu-generator
+alacritty
 )
 
 count=0
